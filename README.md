@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Lloyf's GitHub stats](https://github-readme-stats.vercel.app/api?username=NearlyLloyd)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **NearlyLloyd/NearlyLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
