@@ -44,5 +44,5 @@ music, drumming, game dev, 3d modelling, and chess.
 ### <img src="./assets/findme.png" width=15/> find me
 
 **email:** lloydfalltrick12@gmail.com  
-**Website:** https://portfolio-beta-taupe-iomiubi5kw.vercel.app/  
+**website:** https://portfolio-beta-taupe-iomiubi5kw.vercel.app/  
 **location:** brighton, uk
