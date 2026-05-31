@@ -1,23 +1,48 @@
-<div align="center">
-  <h2><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6d5808ce-73cd-4f0b-a3d6-ac143b63e50b" />
+<h1 align="center">Lloyd Falltrick</h1>
+<p align="center">Software Engineer • Learning</p>
 
->Welcome! </h2>
+---
 
-  
-</div>
+### <img src="./assets/qmark.png" width=15/> about me
+
+i like exploring how things work — on the web, in engines, or somewhere in between.  
+sometimes that means visuals, sometimes systems, sometimes tools, sometimes just following a strange idea to see where it goes.
+
+i don’t really stick to one stack. if it’s interesting, i’ll try it.
+
+---
+
+### <img src="./assets/apple.png" width=15/> what i’m into lately
+
+- experimenting with interaction  
+- building small tools that make life easier  
+- playing with motion and visual effects  
+- exploring systems and how they behave  
+- prototypes that start simple and then grow from there
+
+---
 
 
-<!--
-**NearlyLloyd/NearlyLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="./assets/paint.png" width=15/> tools i use (but not married to)
 
-Here are some ideas to get you started:
+i move between languages and frameworks depending on the project.  
+usually something involving:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- scripting or general‑purpose languages  
+- frontend frameworks
+- game engines
+- whatever libraries I can get my hands on to explore an idea quickly
+
+---
+
+### <img src="./assets/outsidecode.png" width=15/> outside of code
+
+music, drumming, game dev, 3d modelling, and chess.
+
+---
+
+### <img src="./assets/findme.png" width=15/> find me
+
+**email:** lloydfalltrick12@gmail.com  
+**github:** https://portfolio-beta-taupe-iomiubi5kw.vercel.app/  
+**location:** brighton, uk
