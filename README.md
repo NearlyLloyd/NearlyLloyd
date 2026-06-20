@@ -5,7 +5,7 @@
 
 ### <img src="./assets/qmark.png" width=15/> about me
 
-i like exploring how things work — on the web, in engines, or somewhere in between.  
+i like exploring how things work whether on the web, in engines, or somewhere in between.  
 sometimes that means visuals, sometimes systems, sometimes tools, sometimes just following a strange idea to see where it goes.
 
 i don’t really stick to one stack. if it’s interesting, i’ll try it.
@@ -14,7 +14,8 @@ i don’t really stick to one stack. if it’s interesting, i’ll try it.
 
 ### <img src="./assets/apple.png" width=15/> what i’m into lately
 
-- experimenting with interaction  
+- experimenting with interaction
+- AI integration and workflows
 - building small tools that make life easier  
 - playing with motion and visual effects  
 - exploring systems and how they behave  
