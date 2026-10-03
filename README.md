@@ -24,15 +24,9 @@ i don’t really stick to one stack. if it’s interesting, i’ll try it.
 ---
 
 
-### <img src="./assets/paint.png" width=15/> tools i use (but not married to)
+### <img src="./assets/paint.png" width=15/> tools i use
 
-i move between languages and frameworks depending on the project.  
-usually something involving:
-
-- scripting or general‑purpose languages  
-- frontend frameworks
-- game engines
-- whatever libraries I can get my hands on to explore an idea quickly
+i move between languages and frameworks depending on the project. So... if something gets the job done, I learn it.
 
 ---
 
